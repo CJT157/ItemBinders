@@ -1,0 +1,30 @@
+Ever wanted to combine items into a better version of themselves? Ever wanted to transform your items into disfigured and poorly combined versions of themselves?
+
+If you said yes to one of these questions, this mod is for you.
+
+Using the powers of the Binders, you can become the Master of Combinations, which allow you to combine many different weapons!
+
+If there is anything you would like to have combined, please message me or reply to the main thread, I will most likely add it in.
+
+Also I am now back, hopefully I can start bring new updates more often.
+
+- 27 Weapons
+- 2 Tools
+- 2 Potions
+- 6 Tiles
+
+v 0.2.2
+Changelog
+- Updated to tModLoader 0.11.5
+
+Current Mods with Cross-Compatability
+- WeaponOut
+- Tremor Mod
+
+Future Plans:
+- Get into more unique items and interesting
+- User suggested items
+- More Cross-mod Content
+
+Big Thanks to Flashkirby99 for allowing me to have cross-mod content with WeaponOut and to use the whip code to make it much easier for me!
+Also a big thanks to Zadum4ivii for allowing me to do cross-mod content with the Tremor Mod!

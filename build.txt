@@ -1,0 +1,8 @@
+version = 0.2.2.0
+displayName = Item Binders
+author = Dolosus
+homepage = https://forums.terraria.org/index.php?threads/item-binder.60986/#post-1435897
+hideCode = true
+hideResources = true
+includeSource = false
+weakReferences = WeaponOut@1.4
