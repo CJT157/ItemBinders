@@ -33,6 +33,14 @@ namespace thespatiummod.Projectiles
             aiType = ProjectileID.Bullet;           //Act exactly like default Bullet
         }
 
+        public override void OnHitNPC(NPC target, int damage, float knockback, bool crit)
+		    {
+			      if (Main.rand.NextBool(4))
+			          {
+				            target.AddBuff(69, 180, false);
+			          }
+		    }
+
         public override bool OnTileCollide(Vector2 oldVelocity)
         {
             //If collide with tile, reduce the penetrate.
@@ -41,19 +49,6 @@ namespace thespatiummod.Projectiles
             if (projectile.penetrate <= 0)
             {
                 projectile.Kill();
-            }
-            else
-            {
-                Collision.HitTiles(projectile.position + projectile.velocity, projectile.velocity, projectile.width, projectile.height);
-                Main.PlaySound(SoundID.Item10, projectile.position);
-                if (projectile.velocity.X != oldVelocity.X)
-                {
-                    projectile.velocity.X = -oldVelocity.X;
-                }
-                if (projectile.velocity.Y != oldVelocity.Y)
-                {
-                    projectile.velocity.Y = -oldVelocity.Y;
-                }
             }
             return false;
         }

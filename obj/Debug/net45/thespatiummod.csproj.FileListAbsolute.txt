@@ -1,4 +1,0 @@
-C:\Users\cjayt\Documents\My Games\Terraria\ModLoader\Mod Sources\thespatiummod\obj\Debug\net45\thespatiummod.csprojAssemblyReference.cache
-C:\Users\cjayt\Documents\My Games\Terraria\ModLoader\Mod Sources\thespatiummod\obj\Debug\net45\thespatiummod.csproj.CoreCompileInputs.cache
-C:\Users\cjayt\Documents\My Games\Terraria\ModLoader\Mod Sources\thespatiummod\obj\Debug\net45\thespatiummod.AssemblyInfoInputs.cache
-C:\Users\cjayt\Documents\My Games\Terraria\ModLoader\Mod Sources\thespatiummod\obj\Debug\net45\thespatiummod.AssemblyInfo.cs
