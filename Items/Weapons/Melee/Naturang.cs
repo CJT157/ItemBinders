@@ -47,11 +47,10 @@ namespace thespatiummod.Items.Weapons.Melee
         public override void AddRecipes()
         {
             ModRecipe recipe = new ModRecipe(mod);
-            recipe.AddIngredient(ItemID.PalladiumSword, 1);
-            recipe.AddIngredient(ItemID.MythrilSword, 1);
-            recipe.AddIngredient(ItemID.PalladiumBar, 10);
-            recipe.AddIngredient(ItemID.MythrilBar, 10);
-            recipe.AddTile(null, "CobaltBinder");
+            recipe.AddIngredient(ItemID.IceBoomerang, 1);
+            recipe.AddIngredient(ItemID.Shroomerang, 1);
+            recipe.AddIngredient(ItemID.Flamarang, 1);
+            recipe.AddTile(null, "GoldenBinder");
             recipe.SetResult(this);
             recipe.AddRecipe();
         }

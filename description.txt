@@ -13,7 +13,7 @@ Also I am now back, hopefully I can start bring new updates more often.
 - 2 Potions
 - 6 Tiles
 
-v 0.3
+v 0.3.0.1
 Changelog
 - Updated to lastest tModLoader version
 - Added ultimate bullet combos
