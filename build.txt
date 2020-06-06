@@ -1,6 +1,6 @@
-version = 0.2.2.0
+version = 0.3.0.0
 displayName = Item Binders
-author = Dolosus
+author = CJT157
 homepage = https://forums.terraria.org/index.php?threads/item-binder.60986/#post-1435897
 hideCode = true
 hideResources = true

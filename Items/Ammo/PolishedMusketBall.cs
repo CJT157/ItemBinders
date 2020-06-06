@@ -21,7 +21,7 @@ namespace thespatiummod.Items.Ammo
             item.height = 8;
             item.maxStack = 999;
             item.consumable = true;
-            item.knockBack = 1.5f;
+            item.knockBack = 3f;
             item.value = 10;
             item.rare = 2;
             item.shoot = mod.ProjectileType("PolishedMusketBall");

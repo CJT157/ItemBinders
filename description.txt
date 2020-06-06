@@ -13,9 +13,11 @@ Also I am now back, hopefully I can start bring new updates more often.
 - 2 Potions
 - 6 Tiles
 
-v 0.2.2
+v 0.3
 Changelog
-- Updated to tModLoader 0.11.5
+- Updated to lastest tModLoader version
+- Added ultimate bullet combos
+- Added pre-hardmode boomerang combo
 
 Current Mods with Cross-Compatability
 - WeaponOut
